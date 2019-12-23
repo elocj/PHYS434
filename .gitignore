@@ -1,6 +1,8 @@
 .idea
-lab5/higgs_100000_pt_250_500.pkl
-lab5/qcd_100000_pt_250_500.pkl
-lab4/gammaray_lab4.h5
 lab6/higgs_100000_pt_250_500.pkl
 lab6/qcd_100000_pt_250_500.pkl
+lab4/gammaray_lab4.h5
+lab5/higgs_100000_pt_250_500.pkl
+lab5/qcd_100000_pt_250_500.pkl
+lab7/higgs_100000_pt_250_500.pkl
+lab7/qcd_100000_pt_250_500.pkl
